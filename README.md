@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Devops basics and how to navigate shell
