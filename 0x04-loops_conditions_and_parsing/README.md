@@ -16,7 +16,7 @@
 
 **0. Create a SSH RSA key pair**
 
-**1. For Holberton School loop**
+**1. For Best School loop**
 
      Write a Bash script that displays Holberton School 10 times.
 
@@ -24,7 +24,7 @@ Requirement:
 
 * You must use the for loop (while and until are forbidden)
 
-**2. While Holberton School loop**
+**2. While Best School loop**
 
      Write a Bash script that displays Holberton School 10 times.
 
@@ -32,7 +32,7 @@ Requirements:
 
 * You must use the while loop (for and until are forbidden)
 
-**3. Until Holberton School loop**
+**3. Until Best School loop**
 
      Write a Bash script that displays Holberton School 10 times.
 
