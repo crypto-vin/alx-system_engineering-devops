@@ -1,4 +1,4 @@
 #ssh config
 ForwardAgent yes
-IdentityFile ~/.ssh/holberton
+IdentityFile ~/.ssh/school
 PasswordAuthentication no
