@@ -13,7 +13,7 @@
 
 **Requirements**
 
-* All your files will be interpreted on Ubuntu 14.04 LTS
+* All your files will be interpreted on Ubuntu 20.04 LTS
 * The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
 
 The second line of all your Bash scripts should be a comment explaining what is the script doing
