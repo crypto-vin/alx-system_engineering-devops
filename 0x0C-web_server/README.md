@@ -1,4 +1,4 @@
-## 0x0B-web_server
+## 0x0C-web_server
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/8Gu52Qv.png)
 
@@ -21,8 +21,8 @@
 
 **Requirements**
 
-* All your files will be interpreted on Ubuntu 14.04 LTS
-* Your Bash script must pass Shellcheck (version 0.3.3-1~ubuntu14.04.1
+* All your files will be interpreted on Ubuntu 16.04 LTS
+* Your Bash script must pass Shellcheck (version 0.3.3-1~ubuntu16.04.1
   via apt-get) without any error
 * The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
 * The second line of all your Bash scripts should be a comment explaining what
