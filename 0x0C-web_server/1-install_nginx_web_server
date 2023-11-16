@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-#install nginx and redirects to holberton school string
+#install nginx and redirects to myschool string
 sudo apt-get -y update
 sudo apt-get -y install nginx
 file1=/usr/share/nginx/html/index.html
-sudo bash -c "echo 'Holberton School ftw!' > $file1"
+sudo bash -c "echo 'myschool.tech' > $file1"
 service nginx start
